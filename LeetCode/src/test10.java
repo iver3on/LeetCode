@@ -1,5 +1,8 @@
 package net.zwb;
 
+/*
+华为第三题。牛客网面试题。递归查询。
+*/
 public class test10 {
 
     public static boolean exist(char[][] board, String word) {
